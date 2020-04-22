@@ -1,0 +1,7 @@
+name: "Fake-News-Classification"
+output_dir: "."
+navbar:
+  title: "Fake News Classification"
+  left:
+    - text: "Home"
+      href: index.html
